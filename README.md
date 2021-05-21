@@ -10,7 +10,7 @@ This project consists of 4 major sections:
 - Convolutional Neural Network (CNN)
 
 Remarks:  
-For the CNN and RNN notebook are hosted on Kaggle because of the large dataset is required for the notebooks.
+For the CNN notebook are hosted on Kaggle because of the large dataset is required for the notebooks.
 
 ## Project Links
 
