@@ -12,6 +12,7 @@ This project consists of 5 major sections:
 
 <br />
 <br />
+
 Remarks:  
 - All notebook has a copy of HTML version for viewing.
 - The Natural Scenes Image Classification (CNN) notebook are hosted on Kaggle because of the large dataset is required for the notebooks. A local copy can also be found in the cnn folder.
