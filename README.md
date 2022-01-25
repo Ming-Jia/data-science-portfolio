@@ -8,7 +8,6 @@ This project consists of 5 major sections:
 - Estimation of Data Scientist Salary (Regression)
 - Classify Edible and Poisonous Mushroom (Classification)
 - Natural Scenes Image Classification (CNN)
-- FAANG Stock Analysis (LSTM)
 
 <br />
 <br />
