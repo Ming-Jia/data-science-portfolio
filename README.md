@@ -2,7 +2,7 @@
 
 ## Description
 
-This project consists of 5 major sections:
+This project consists of 4 major sections:
 
 - Hotel Bookings Demand (EDA)
 - Estimation of Data Scientist Salary (Regression)
