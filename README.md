@@ -2,21 +2,21 @@
 
 ## Description
 
-This project consists of 4 major sections:
+This project consists of 5 major sections:
 
 - Hotel Bookings Demand (EDA)
 - Estimation of Data Scientist Salary (Regression)
 - Classify Edible and Poisonous Mushroom (Classification)
 - Natural Scenes Image Classification (CNN)
+- Credit Card Fraud Detection (Classification)
 
 <br />
 <br />
 
-Remarks:  
+Remarks:
+
 - All notebook has a copy of HTML version for viewing.
-- The Natural Scenes Image Classification (CNN) notebook are hosted on Kaggle because of the large dataset is required for the notebooks. A local copy can also be found in the cnn folder.
-
-
+- Some dataset associated with notebook is too large for GitHub to store. All these dataset has a respectively link to Kaggle notebook and the dataset
 
 ## Project Links
 
