@@ -4,11 +4,11 @@
 
 This project consists of 5 major sections:
 
+- Credit Card Fraud Detection (Classification Imbalanced Dataset)
+- Natural Scenes Image Classification (CNN)
 - Hotel Bookings Demand (EDA)
 - Estimation of Data Scientist Salary (Regression)
 - Classify Edible and Poisonous Mushroom (Classification)
-- Natural Scenes Image Classification (CNN)
-- Credit Card Fraud Detection (Classification)
 
 <br />
 
